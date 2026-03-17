@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doctor-login/static/css/main.0a5a643d.css",
+    "main.js": "/doctor-login/static/js/main.edea7c94.js",
+    "static/js/453.20359781.chunk.js": "/doctor-login/static/js/453.20359781.chunk.js",
+    "index.html": "/doctor-login/index.html",
+    "main.0a5a643d.css.map": "/doctor-login/static/css/main.0a5a643d.css.map",
+    "main.edea7c94.js.map": "/doctor-login/static/js/main.edea7c94.js.map",
+    "453.20359781.chunk.js.map": "/doctor-login/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5a643d.css",
+    "static/js/main.edea7c94.js"
+  ]
+}
